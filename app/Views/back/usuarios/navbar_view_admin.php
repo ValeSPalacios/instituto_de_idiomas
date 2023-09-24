@@ -1,9 +1,9 @@
 <!-- NAVBAR -->
 <nav class="navbar navbar-expand-lg px-4" style="background-color: #5E1A57;">
   <div class="container-fluid px-4">
-    <a class="navbar-brand" href="admin/inicio">
+    <!--<a class="navbar-brand" href="admin/inicio">
       <img src="./assets/img/logo.svg" alt="IDI" width="40px">
-    </a>
+    </a>-->
     <button class="navbar-toggler" style="color: white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon white"></span>
     </button>

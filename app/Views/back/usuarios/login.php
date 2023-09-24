@@ -26,7 +26,7 @@
 				<input type="password" class="form-control"  placeholder="Ejemplo: Abc123456" name="pass_login" id="pass_login" >
 				<div class="d-flex pt-4 justify-content-between">
 					<button type="submit" class="boton-aceptar fs-5" id="btn-loguear">
-						Loguear
+						Ingresar
 					</button>
 
 					<button type="button" class="boton-cancelar fw-semibold fs-5" onclick="limpiarInputsLogin()">

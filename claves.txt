@@ -1,0 +1,8 @@
+Cuentas
+	Admin
+	Correo: lorena_cassoni@gmail.com
+	Contraseña: lorena_cassoni
+
+	Cliente
+	Correo: tomas_barrios@gmail.com
+	Contraseña: tomas_barrios

@@ -29,7 +29,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'database' => 'td-espinozaenrique',
+        'database' => 'palacios_valeria',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
