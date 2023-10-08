@@ -29,7 +29,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'database' => 'palacios_valeria',
+        'database' => 'queupumil_jesica',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
